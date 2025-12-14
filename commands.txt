@@ -1,2 +1,10 @@
-git branch - to list branch
-origin means alis to ur github url
+git clone 
+git branch
+git init
+git status
+git add
+git commit
+git push
+git pull
+git checkout
+git checkout -b
